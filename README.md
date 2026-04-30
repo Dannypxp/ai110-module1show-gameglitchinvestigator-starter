@@ -26,12 +26,19 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 📝 Document Your Experience
 
 - [ ] Describe the game's purpose.
+The games purpose is to use AI to fix all the issues in a game made soley by AI
 - [ ] Detail which bugs you found.
+The bugs are
+   The secret INT would switch to STR and back to INT which throws of the camparison
+   The higher and lower hints were opposite
+   The Difficulties didnt have the right amount of attempts
 - [ ] Explain what fixes you applied.
-
+The fixes were
+   Not letting the INT switch to STR
+   Fixing the hints and the message they give
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+- [![alt text](image-1.png)] [Insert a screenshot of your fixed, winning game here]
 
 ## 🚀 Stretch Features
 
